@@ -1,2 +1,0 @@
-pako,4/10/1986,37
-Nombre:Francisco , Fecha de nacimiento:4/10/1986, Edad:37
